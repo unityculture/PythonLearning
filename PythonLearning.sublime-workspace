@@ -1,0 +1,767 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"datajoin",
+				"datajoin_tb"
+			],
+			[
+				"sql",
+				"sqlContext"
+			],
+			[
+				"user_expl",
+				"user_expld1"
+			],
+			[
+				"user_",
+				"user_tb"
+			],
+			[
+				"spa",
+				"sparkR"
+			],
+			[
+				"register",
+				"registerTempTable"
+			],
+			[
+				"profil",
+				"profile\t{stats}"
+			],
+			[
+				"coll",
+				"collect\t{dplyr}"
+			],
+			[
+				"date",
+				"date_format"
+			],
+			[
+				"id",
+				"id_2005百萬抽樣檔"
+			],
+			[
+				"my",
+				"my_list2"
+			],
+			[
+				"my_l",
+				"my_list2"
+			],
+			[
+				"my_",
+				"my_list"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "print('hi' + ' there !')\nprint(\"hi\", \"there\")\nprint(str(5) + 'hi')\n# print(5 + 'hi') -> cannot convert\nprint(int('5') + 5)\n# print(int('5.5') + 5) -> 5.5 is not integer\nprint(int('5') + 5)\n\n",
+			"file": "/Users/sheng/Desktop/tmp.py",
+			"file_size": 122,
+			"file_write_time": 131354148980000000,
+			"settings":
+			{
+				"buffer_size": 190,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 166.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"cheat sheet",
+				"Markdown Preview: Open Markdown Cheat sheet"
+			],
+			[
+				"disable ",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"",
+				"ANF: Rename File"
+			],
+			[
+				"rename",
+				"ANF: Rename File"
+			],
+			[
+				"sendte",
+				"SendTextPlus: Choose Program"
+			],
+			[
+				"ter",
+				"Preferences: Terminal Settings – User"
+			],
+			[
+				"pack",
+				"Package Control: List Packages"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: li",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: re",
+				"Package Control: Remove Package"
+			],
+			[
+				"Package Control: l",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: insta",
+				"Package Control: Install Package"
+			],
+			[
+				"text r",
+				"Text Pastry: Paste"
+			],
+			[
+				"packe",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"list pa",
+				"Package Control: List Packages"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"list pack",
+				"Package Control: List Packages"
+			],
+			[
+				"packag in",
+				"Package Control: Install Package"
+			],
+			[
+				"\t",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install ",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 335.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"/usr/bin/python2.7 -u /Users/sheng/Desktop/helloworld.py",
+			"1",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"1",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/sheng/Desktop/helloworld.py",
+		"/Users/sheng/Desktop/Sample Markdown Cheat Sheet",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python2.7.sublime-build",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
+		"/Users/sheng/Desktop/untitled.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/WranglingCode/20160106_GA_Tran_Source_Data.R",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/data.Rmd",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/_site.yml",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker/booker.sublime-project",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker/about.Rmd ",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker/index.Rmd  ",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker/_site.yml",
+		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker/data/20161115_path_title.csv",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160524_kr_applist.R",
+		"/Users/sheng/Desktop/temp.html",
+		"/Users/sheng/Documents/Whoscall/20150812_Whoscall Recommend Numbers/20150908_calllog_version2_wrangling.R",
+		"/Users/sheng/Documents/Whoscall/20150403_BR/BR_EDA_pre.Rmd",
+		"/Users/sheng/Documents/Whoscall/20150403_BR/BR_EDA_pre.md",
+		"/Users/sheng/Documents/Whoscall/20150403_BR/BR_EDA_pre.Rpres",
+		"/Users/sheng/Documents/Whoscall/20150728_Ads_Performance/20150728_Ads_Performance.Rmd",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160308_Ubuntu_Spark",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/2016_Bayes_Report.Rmd",
+		"/Users/sheng/Documents/健保團隊/YueDataLabsWeb/index.html",
+		"/Users/sheng/Documents/shengweb/index.html",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/View In Browser.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/2016_Gender_Report.Rmd",
+		"/Users/sheng/Downloads/html5up-helios/index.html",
+		"/Users/sheng/Downloads/html5up-landed/index.html",
+		"/Users/sheng/Documents/Whoscall/20150728_Ads_Performance/GeoVisualization_ads.R",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160422_model_check.RData",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160329_svm_ubuntu.r",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160331_Rstudio_Server",
+		"/Users/sheng/Documents/Whoscall/findstr :R :N \"^\" \"D:\\資料存放\\2012版本_新加密\\1. 普查檔\\PER\\P",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160526_rstudio_spark",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160419_check_model_app_data.R",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160517_AllUser_Prediction_sparkR.R",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160519_zeppling",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160519_zepping",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/mongo_info",
+		"/Users/sheng/Desktop/-- 為了方便，用cmd到放mdf的資料夾，將所有mdf檔名列出，方便等等複製貼上（其實真的沒比較快",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160317_UserProfiling_gender_app.R",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160318_app.list.csv",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160407_Gender_Report.Rmd",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160304_mongo",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160322_Gender_modeling.r",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160322_Gender_modeling.Rmd",
+		"/Users/sheng/Documents/Whoscall/20160419_check_model_app_data.R",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160318_gender_AppList.Rmd",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160317_preliminary.Rmd",
+		"/Users/sheng/Documents/Whoscall/20150812_Whoscall Recommend Numbers/20150812_Recommend.Rmd",
+		"/Users/sheng/Desktop/crawler.php",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160326_svm_ubuntu.r",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Terminal.sublime-settings",
+		"/Users/sheng/Documents/Whoscall/whoscall_r_script/20160310_SparkR_log.R",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/sheng/Documents/Whoscall/20160317_UserProfiling_gender_app.R",
+		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/user_tag_name_travel_new.csv",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/gogolook_ec2_key_shenglin.pem",
+		"/Users/sheng/Documents/Whoscall/whoscall_r_script/20160304_Rfacebook_token_getUser.R",
+		"/Users/sheng/Documents/Whoscall/20150403_BR/20150604_Present/20150604_BR_presentation.Rmd",
+		"/Users/sheng/Desktop/area.csv",
+		"/Users/sheng/Desktop/temp.R",
+		"/Users/sheng/Desktop/temp.csv",
+		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/ssh_key.pem",
+		"/Users/sheng/Documents/Whoscall/whoscall_r_script/20160224_RMongo_rmongodb_practice.R",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20160222_meeting.sql",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/smallhorse/20160220_OD_鄉鎮市區.r",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20160215_meeting",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20160205_meeting.sql",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20151220_ID抽樣檔退保後還有就醫的人數",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cold2005_counts/20160202_2005年看感冒的就醫次數.sql",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cold2005_counts/20160202_2005_20112年看感冒的就醫次數",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cold2005_counts/20160126_2005年看感冒的就醫次數",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cdt2005_icd_func_ind/20160202_就醫地加入縣市鄉鎮.sql",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cdt2005_icd_func_ind/20160202_抓取icd建立資料表.sql",
+		"/Users/sheng/Documents/Paper_10401/script_sql/sheng_db/cdt2005_icd_func_ind/20160202_就醫地加入縣市鄉鎮",
+		"/Users/sheng/Documents/Paper_10401/Data/20160127_2005年各月份感冒就診人次.csv",
+		"/Users/sheng/Documents/Paper_10401/Data/20151220_ID抽樣檔退保_就診記錄",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20160129_各縣市遷移人數_就醫人口_性別x年齡.r",
+		"/Users/sheng/Documents/Paper_10401/Data/map/20160112_2000&2010地圖參考.R",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20160120_各年度戶籍人數_當年度格式.r",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20160105_各年份各縣市就醫人口結構",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20160105_計算就醫地區比例",
+		"/Users/sheng/Documents/Paper_10401/Data/20160112_地區醫院各縣市各年度院所數.csv",
+		"/Users/sheng/Documents/Paper_10401/Data/20160112_基層院所各年度各縣市所數.csv",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20151220_就醫人口在百萬抽樣黨所佔得比",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/smallhorse/20150105_OD_四個縣市改鄉鎮區域",
+		"/Users/sheng/Documents/Learning/R/懶人包",
+		"/Users/sheng/Documents/Paper_10401/paper_10401.sublime-project",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20150921_2000and2010常住人口_鄉鎮.R",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20150926_2000and2010常住人口_縣市.R",
+		"/Users/sheng/Desktop/test",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道各年度常住人數_鄉鎮市區.Rmd",
+		"/Users/sheng/Documents/Paper_10401/script_sql/SQL匯出csv範例",
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
+		"/Users/sheng/Documents/Paper_10401/Data/20151117_上呼吸道_各年度常住人數_鄉鎮市區_最後就診時間版本",
+		"/Users/sheng/Documents/Paper_10401/script_sql/20151009_鄉鎮市區門診數",
+		"/Users/sheng/Documents/Paper_10401/Data/resident/20151020_2005鄉鎮常住人數_age&gender.csv",
+		"/Users/sheng/Documents/碩士論文/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
+		"/Users/sheng/Documents/碩士論文/碩士論文.sublime-project",
+		"/Users/sheng/Documents/碩士論文/script_r & report/20150921_2000and2010常住人口_鄉鎮.R",
+		"/Users/sheng/Documents/碩士論文/20150921_2000and2010常住人口_鄉鎮.R",
+		"/Users/sheng/Documents/Learning/SQL/for loop example",
+		"/Users/sheng/Documents/碩士論文/script_sql/20151009_鄉鎮市區門診數",
+		"/Users/sheng/Documents/Learning/SQL",
+		"/Users/sheng/Desktop/English/untitled.sublime-project",
+		"/Users/sheng/Desktop/English/60s/Bacteria Got an Early Fix on Nitrogen",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151007_ML_note",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new data",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new fish",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/fish",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project",
+		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/NCCU_MLNote.sublime-project",
+		"/Users/sheng/Documents/Learning/py/20151007_ML_note",
+		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co",
+		"/Users/sheng/Documents/Learning/py/learning1.py",
+		"/Users/sheng/Documents/Learning/SQL/basic.sql",
+		"/Users/sheng/Documents/Learning/SQL/FunctionDefined_INSTR.sql",
+		"/Users/sheng/Documents/Learning/SQL/untitled.sql",
+		"/Users/sheng/Documents/Learning/SQL/untitled",
+		"/Users/sheng/Documents/Learning/py/basic.sql"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"",
+			"whoscall",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"  -",
+			"frac",
+			"formatter",
+			"setup",
+			".tabset",
+			"booktitlePath",
+			"cosmo",
+			"as.POSIXct",
+			"hist",
+			"value",
+			"scp",
+			"quantile",
+			"POSIXct",
+			"epoch",
+			"as.Pox",
+			"scp",
+			"地圖",
+			"scp",
+			"epoch",
+			"scp",
+			"THIS IS TWENTY",
+			"THIS IS TWENTY, A FREE",
+			"THIS IS TWENTY, A FREE \nRESPONSIVE TEMPLATE",
+			"scp",
+			"資料科學",
+			"cen",
+			"center",
+			"h1",
+			"pic06",
+			"＃",
+			"left sidebar",
+			"home",
+			"helios",
+			"scp",
+			"fortify",
+			"TWsf",
+			".shp",
+			"scp",
+			"ID2005",
+			"library",
+			"token",
+			"scp",
+			"PER1997",
+			"scp",
+			"div",
+			"src",
+			"div",
+			"scp",
+			"20160324_model_dataset.csv",
+			"scp",
+			"master",
+			"scp",
+			"mongo",
+			"scp",
+			"pineapple_HV資料庫_log",
+			"segment",
+			"scp",
+			"10.0.",
+			"write.csv",
+			"write",
+			"20160422_acc_curve_nv.csv",
+			"hdfs",
+			"10.0.",
+			"server",
+			"rstudio server",
+			"applist",
+			"explode",
+			"prf",
+			"n.app",
+			"spread",
+			"explode",
+			"hc",
+			"left join",
+			"fb",
+			"cut",
+			"water",
+			"mongo",
+			"read user dataset with applist ,from mongo ",
+			"mongo_info",
+			"add&mongo",
+			"add mongo",
+			"mongo",
+			"m",
+			"mongo",
+			",age",
+			"ctime",
+			"c.time",
+			" ",
+			"m1-06.xls",
+			"2005",
+			"each",
+			"09",
+			"         \n",
+			"D",
+			"x",
+			"print",
+			"len",
+			"print",
+			"\"\"\"\n\nx = 3\nprint  x   \nx += 2\nprint x\nx -= 1\nprint x\n\nx,y=99,3    \n",
+			"222",
+			"]\n",
+			"python",
+			"pyhton",
+			"command",
+			"ㄇ"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/Users/sheng/Desktop/tmp.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 190,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 37,
+								"count": 2,
+								"modified": true,
+								"selection": true,
+								"status": -1,
+								"syntax": "python"
+							},
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+									"1":
+									[
+										187,
+										188
+									]
+								},
+								"icon":
+								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/round_bracket.png",
+										"brackethighlighter.default"
+									]
+								},
+								"open":
+								{
+									"1":
+									[
+										174,
+										175
+									]
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 153.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.markdown":
+	{
+		"height": 100.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/Python3.5.sublime-build",
+	"project": "PythonLearning.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Learning/R/Project_RecSys/booker/booker.sublime-project"
+			],
+			[
+				"papa",
+				"~/Documents/Paper_10401/paper_10401.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 342.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 613.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 169.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
