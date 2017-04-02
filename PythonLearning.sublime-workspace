@@ -60,15 +60,21 @@
 	"buffers":
 	[
 		{
-			"contents": "print('hi' + ' there !')\nprint(\"hi\", \"there\")\nprint(str(5) + 'hi')\n# print(5 + 'hi') -> cannot convert\nprint(int('5') + 5)\n# print(int('5.5') + 5) -> 5.5 is not integer\nprint(int('5') + 5)\n\n",
-			"file": "/Users/sheng/Desktop/tmp.py",
-			"file_size": 122,
-			"file_write_time": 131354148980000000,
+			"file": "/Users/sheng/Desktop/20170331-Day1.py",
 			"settings":
 			{
-				"buffer_size": 190,
+				"buffer_size": 727,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "123951218143457\n\ne1aff6732654d23e81125146041b26cf",
+			"settings":
+			{
+				"buffer_size": 49,
+				"line_ending": "Unix",
+				"name": "123951218143457"
 			}
 		}
 	],
@@ -95,17 +101,37 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 166.0,
-		"last_filter": "install",
+		"height": 354.0,
+		"last_filter": "instal",
 		"selected_items":
 		[
 			[
-				"install",
+				"instal",
 				"Package Control: Install Package"
 			],
 			[
-				"python",
+				"pytho",
 				"Set Syntax: Python"
+			],
+			[
+				"python",
+				"Build With: Python3.5"
+			],
+			[
+				"pyh",
+				"Set Syntax: Python"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
 			],
 			[
 				"markdown",
@@ -196,10 +222,6 @@
 				"Package Control: Enable Package"
 			],
 			[
-				"instal",
-				"Package Control: Install Package"
-			],
-			[
 				"list",
 				"Package Control: List Packages"
 			],
@@ -232,7 +254,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 521.0
+		"width": 518.0
 	},
 	"console":
 	{
@@ -257,16 +279,26 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
+	"expanded_folders":
+	[
+		"/Users/sheng/Documents/Learning/py"
+	],
 	"file_history":
 	[
+		"/Users/sheng/Desktop/tmp.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/default",
+		"/Users/sheng/Documents/anaconda-defualt",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
+		"/Users/sheng/Documents/Learning/py/print(1+1)",
+		"/Users/sheng/Documents/Learning/py/learning2.py",
+		"/Users/sheng/Documents/Learning/py/learning1.py",
 		"/Users/sheng/Desktop/helloworld.py",
 		"/Users/sheng/Desktop/Sample Markdown Cheat Sheet",
-		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python2.7.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
 		"/Users/sheng/Desktop/untitled.py",
-		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/WranglingCode/20160106_GA_Tran_Source_Data.R",
 		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/data.Rmd",
@@ -380,13 +412,7 @@
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project",
 		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/NCCU_MLNote.sublime-project",
 		"/Users/sheng/Documents/Learning/py/20151007_ML_note",
-		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co",
-		"/Users/sheng/Documents/Learning/py/learning1.py",
-		"/Users/sheng/Documents/Learning/SQL/basic.sql",
-		"/Users/sheng/Documents/Learning/SQL/FunctionDefined_INSTR.sql",
-		"/Users/sheng/Documents/Learning/SQL/untitled.sql",
-		"/Users/sheng/Documents/Learning/SQL/untitled",
-		"/Users/sheng/Documents/Learning/py/basic.sql"
+		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co"
 	],
 	"find":
 	{
@@ -407,6 +433,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"COMPLE",
 			"  -",
 			"frac",
 			"formatter",
@@ -529,32 +556,31 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/sheng/Desktop/tmp.py",
+					"file": "/Users/sheng/Desktop/20170331-Day1.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 190,
+						"buffer_size": 727,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								188,
-								188
+								394,
+								544
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 37,
-								"count": 2,
+								"changes": -1,
 								"modified": true,
 								"selection": true,
 								"status": -1,
@@ -565,27 +591,12 @@
 							{
 								"close":
 								{
-									"1":
-									[
-										187,
-										188
-									]
 								},
 								"icon":
 								{
-									"1":
-									[
-										"Packages/BracketHighlighter/icons/round_bracket.png",
-										"brackethighlighter.default"
-									]
 								},
 								"open":
 								{
-									"1":
-									[
-										174,
-										175
-									]
 								},
 								"unmatched":
 								{
@@ -649,8 +660,121 @@
 								"bh_angle_close",
 								"bh_angle_content"
 							],
+							"origin_encoding": "ASCII",
 							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 369.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 49,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								49,
+								17
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 8,
+								"count": 1,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_name": "123951218143457",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content"
+							],
+							"default_dir": "/Users/sheng/Documents/Learning/py",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -695,7 +819,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 153.0
+		"height": 123.0
 	},
 	"output.find_results":
 	{
@@ -728,9 +852,13 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "",
+		"last_filter": "who",
 		"selected_items":
 		[
+			[
+				"who",
+				"~/Documents/Whoscall/whoscall.sublime-project"
+			],
 			[
 				"",
 				"~/Documents/Learning/R/Project_RecSys/booker/booker.sublime-project"
