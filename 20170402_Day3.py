@@ -21,8 +21,8 @@ ironman_groups_tuple = tuple(ironman_groups_list)
 ironman_groups_list.insert(5, "自我挑戰組")
 # ironman_groups_tuple.insert(5, "自我挑戰組") -> ERROR
 
-# Dictionary
 participated_group = "Big Data"
+# Dictionary
 current_ttl_articles = 4
 is_participating = True
 
@@ -33,6 +33,7 @@ my_status = {
     "is_participating": is_participating
 }
 # 利用鍵值選擇元素
+print(my_status)
 print(my_status["group"])
 print(my_status["ttl_articles"])
 print(my_status["is_participating"])
@@ -43,4 +44,4 @@ articles = ironmen * 30
 print(articles)
 
 # Numpy 的運用
-import num
+import numpy

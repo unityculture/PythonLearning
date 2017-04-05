@@ -4,6 +4,18 @@
 		"selected_items":
 		[
 			[
+				"my",
+				"my_2d_array"
+			],
+			[
+				"as",
+				"astype"
+			],
+			[
+				"i",
+				"index"
+			],
+			[
 				"datajoin",
 				"datajoin_tb"
 			],
@@ -44,10 +56,6 @@
 				"id_2005百萬抽樣檔"
 			],
 			[
-				"my",
-				"my_list2"
-			],
-			[
 				"my_l",
 				"my_list2"
 			],
@@ -60,21 +68,12 @@
 	"buffers":
 	[
 		{
-			"file": "/Users/sheng/Desktop/20170331-Day1.py",
+			"file": "20170404_Day5.py",
 			"settings":
 			{
-				"buffer_size": 727,
+				"buffer_size": 1325,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
-			}
-		},
-		{
-			"contents": "123951218143457\n\ne1aff6732654d23e81125146041b26cf",
-			"settings":
-			{
-				"buffer_size": 49,
-				"line_ending": "Unix",
-				"name": "123951218143457"
 			}
 		}
 	],
@@ -102,20 +101,36 @@
 	"command_palette":
 	{
 		"height": 354.0,
-		"last_filter": "instal",
+		"last_filter": "",
 		"selected_items":
 		[
-			[
-				"instal",
-				"Package Control: Install Package"
-			],
 			[
 				"pytho",
 				"Set Syntax: Python"
 			],
 			[
 				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"py",
 				"Build With: Python3.5"
+			],
+			[
+				"pyth",
+				"Build With: Python3.5"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
 			],
 			[
 				"pyh",
@@ -130,10 +145,6 @@
 				"Package Control: Disable Package"
 			],
 			[
-				"install",
-				"Package Control: Install Package"
-			],
-			[
 				"markdown",
 				"Set Syntax: Markdown"
 			],
@@ -144,10 +155,6 @@
 			[
 				"disable ",
 				"Package Control: Disable Package"
-			],
-			[
-				"package",
-				"Package Control: Remove Package"
 			],
 			[
 				"",
@@ -254,7 +261,7 @@
 				"Package Control: Install Package"
 			]
 		],
-		"width": 518.0
+		"width": 521.0
 	},
 	"console":
 	{
@@ -285,11 +292,25 @@
 	],
 	"file_history":
 	[
-		"/Users/sheng/Desktop/tmp.py",
+		"/Users/sheng/Documents/Learning/py/20170404_Day4.py",
+		"/Users/sheng/Documents/Learning/py/20170402_Day3.py",
+		"/Users/sheng/Documents/Learning/py/20170404_Day5.py",
+		"/Users/sheng/Documents/Learning/py/.ipynb_checkpoints/jupyter_try-checkpoint.ipynb",
+		"/Users/sheng/Documents/Learning/py/jupyter_try.ipynb",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
+		"/Users/sheng/Documents/Learning/py/PythonLearning.sublime-project",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
+		"/Users/sheng/Desktop/20170331-Day1.py",
+		"/Users/sheng/Documents/Learning/py/2017040.py.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/sheng/Documents/Learning/py/20170401_Day2.py",
+		"/Users/sheng/Documents/Learning/py/20170401_Day2",
+		"/Users/sheng/Desktop/untitled.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/anaconda.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/AnacondaKite.sublime-settings",
+		"/Users/sheng/Desktop/tmp.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/default",
 		"/Users/sheng/Documents/anaconda-defualt",
-		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
 		"/Users/sheng/Documents/Learning/py/print(1+1)",
 		"/Users/sheng/Documents/Learning/py/learning2.py",
 		"/Users/sheng/Documents/Learning/py/learning1.py",
@@ -298,7 +319,6 @@
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python2.7.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/View In Browser/View In Browser.sublime-settings",
-		"/Users/sheng/Desktop/untitled.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
 		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/WranglingCode/20160106_GA_Tran_Source_Data.R",
 		"/Users/sheng/Documents/Learning/R/Project_RecSys/booker_website/data.Rmd",
@@ -399,24 +419,11 @@
 		"/Users/sheng/Documents/碩士論文/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
 		"/Users/sheng/Documents/碩士論文/碩士論文.sublime-project",
 		"/Users/sheng/Documents/碩士論文/script_r & report/20150921_2000and2010常住人口_鄉鎮.R",
-		"/Users/sheng/Documents/碩士論文/20150921_2000and2010常住人口_鄉鎮.R",
-		"/Users/sheng/Documents/Learning/SQL/for loop example",
-		"/Users/sheng/Documents/碩士論文/script_sql/20151009_鄉鎮市區門診數",
-		"/Users/sheng/Documents/Learning/SQL",
-		"/Users/sheng/Desktop/English/untitled.sublime-project",
-		"/Users/sheng/Desktop/English/60s/Bacteria Got an Early Fix on Nitrogen",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/20151007_ML_note",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new data",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/new fish",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/fish",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project",
-		"/Users/sheng/Documents/NCCU/ML/NCCU_ML_Note/NCCU_MLNote.sublime-project",
-		"/Users/sheng/Documents/Learning/py/20151007_ML_note",
-		"/Users/sheng/Desktop/English/60s/Topic - Cheap Goods From China Have High Carbon Co"
+		"/Users/sheng/Documents/碩士論文/20150921_2000and2010常住人口_鄉鎮.R"
 	],
 	"find":
 	{
-		"height": 70.0
+		"height": 33.0
 	},
 	"find_in_files":
 	{
@@ -433,6 +440,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"diction",
+			"#",
+			"float",
+			"inter",
+			"python_interpreter",
+			"package",
 			"COMPLE",
 			"  -",
 			"frac",
@@ -556,24 +569,24 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/Users/sheng/Desktop/20170331-Day1.py",
+					"file": "20170404_Day5.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 727,
+						"buffer_size": 1325,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								394,
-								544
+								519,
+								528
 							]
 						],
 						"settings":
@@ -604,26 +617,31 @@
 							},
 							"bracket_highlighter.regions":
 							[
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
 								"bh_tag",
 								"bh_tag_center",
 								"bh_tag_open",
@@ -634,150 +652,32 @@
 								"bh_double_quote_open",
 								"bh_double_quote_close",
 								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
+								"bh_unmatched_content"
 							],
-							"origin_encoding": "ASCII",
 							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 369.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 49,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								49,
-								17
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": 8,
-								"count": 1,
-								"modified": false,
-								"selection": false,
-								"status": -1,
-								"syntax": "plain text"
-							},
-							"auto_name": "123951218143457",
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content"
-							],
-							"default_dir": "/Users/sheng/Documents/Learning/py",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 355.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -788,7 +688,7 @@
 	],
 	"incremental_find":
 	{
-		"height": 32.0
+		"height": 33.0
 	},
 	"input":
 	{
@@ -819,7 +719,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 123.0
+		"height": 165.0
 	},
 	"output.find_results":
 	{
@@ -837,7 +737,7 @@
 	"project": "PythonLearning.sublime-project",
 	"replace":
 	{
-		"height": 60.0
+		"height": 62.0
 	},
 	"save_all_on_build": true,
 	"select_file":
@@ -852,16 +752,16 @@
 	"select_project":
 	{
 		"height": 500.0,
-		"last_filter": "who",
+		"last_filter": "",
 		"selected_items":
 		[
 			[
-				"who",
-				"~/Documents/Whoscall/whoscall.sublime-project"
+				"",
+				"~/Documents/Learning/py/PythonLearning.sublime-project"
 			],
 			[
-				"",
-				"~/Documents/Learning/R/Project_RecSys/booker/booker.sublime-project"
+				"who",
+				"~/Documents/Whoscall/whoscall.sublime-project"
 			],
 			[
 				"papa",
@@ -887,7 +787,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 169.0,
+	"side_bar_width": 172.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
