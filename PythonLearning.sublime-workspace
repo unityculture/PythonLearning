@@ -4,6 +4,10 @@
 		"selected_items":
 		[
 			[
+				"temp",
+				"temperature_categorical"
+			],
+			[
 				"my",
 				"my_2d_array"
 			],
@@ -68,10 +72,21 @@
 	"buffers":
 	[
 		{
-			"file": "20170404_Day5.py",
+			"contents": "",
 			"settings":
 			{
-				"buffer_size": 1325,
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "20170407_Day6.py",
+			"file_size": 0,
+			"file_write_time": 131360043230000000,
+			"settings":
+			{
+				"buffer_size": 0,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -100,16 +115,20 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 354.0,
-		"last_filter": "",
+		"height": 292.0,
+		"last_filter": "python",
 		"selected_items":
 		[
 			[
-				"pytho",
+				"python",
 				"Set Syntax: Python"
 			],
 			[
-				"python",
+				"markd",
+				"Set Syntax: Markdown"
+			],
+			[
+				"pytho",
 				"Set Syntax: Python"
 			],
 			[
@@ -292,18 +311,21 @@
 	],
 	"file_history":
 	[
-		"/Users/sheng/Documents/Learning/py/20170404_Day4.py",
-		"/Users/sheng/Documents/Learning/py/20170402_Day3.py",
 		"/Users/sheng/Documents/Learning/py/20170404_Day5.py",
+		"/Users/sheng/Documents/Learning/py/20170404_Day4.py",
+		"/Users/sheng/Documents/Learning/py/README.md",
+		"/Users/sheng/Documents/Learning/py/20170402_Day3.py",
+		"/Users/sheng/Documents/Learning/py/20170401_Day2.py",
+		"/Users/sheng/Documents/Learning/py/20170331-Day1.py",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
+		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
 		"/Users/sheng/Documents/Learning/py/.ipynb_checkpoints/jupyter_try-checkpoint.ipynb",
 		"/Users/sheng/Documents/Learning/py/jupyter_try.ipynb",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Side Bar Folders.sublime-settings",
 		"/Users/sheng/Documents/Learning/py/PythonLearning.sublime-project",
-		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
 		"/Users/sheng/Desktop/20170331-Day1.py",
 		"/Users/sheng/Documents/Learning/py/2017040.py.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
-		"/Users/sheng/Documents/Learning/py/20170401_Day2.py",
 		"/Users/sheng/Documents/Learning/py/20170401_Day2",
 		"/Users/sheng/Desktop/untitled.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/anaconda.py",
@@ -351,7 +373,6 @@
 		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160331_Rstudio_Server",
 		"/Users/sheng/Documents/Whoscall/findstr :R :N \"^\" \"D:\\資料存放\\2012版本_新加密\\1. 普查檔\\PER\\P",
 		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160526_rstudio_spark",
-		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
 		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160419_check_model_app_data.R",
 		"/Users/sheng/Documents/Whoscall/20160304_gender_UserProfiling/20160517_AllUser_Prediction_sparkR.R",
 		"/Users/sheng/Documents/Whoscall/whoscall_code_temp/20160519_zeppling",
@@ -417,9 +438,7 @@
 		"/Users/sheng/Documents/Paper_10401/script_sql/20151009_鄉鎮市區門診數",
 		"/Users/sheng/Documents/Paper_10401/Data/resident/20151020_2005鄉鎮常住人數_age&gender.csv",
 		"/Users/sheng/Documents/碩士論文/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
-		"/Users/sheng/Documents/碩士論文/碩士論文.sublime-project",
-		"/Users/sheng/Documents/碩士論文/script_r & report/20150921_2000and2010常住人口_鄉鎮.R",
-		"/Users/sheng/Documents/碩士論文/20150921_2000and2010常住人口_鄉鎮.R"
+		"/Users/sheng/Documents/碩士論文/碩士論文.sublime-project"
 	],
 	"find":
 	{
@@ -440,6 +459,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"##",
 			"diction",
 			"#",
 			"float",
@@ -569,24 +589,136 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "20170404_Day5.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1325,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								519,
-								528
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"WordCount":
+							{
+								"changes": 34,
+								"count": 0,
+								"modified": false,
+								"selection": false,
+								"status": -1,
+								"syntax": "plain text"
+							},
+							"auto_name": "",
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"default_dir": "/Users/sheng/Documents/Learning/py",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "20170407_Day6.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
 							]
 						],
 						"settings":
@@ -617,41 +749,16 @@
 							},
 							"bracket_highlighter.regions":
 							[
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content",
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
 								"bh_single_quote",
 								"bh_single_quote_center",
 								"bh_single_quote_open",
 								"bh_single_quote_close",
 								"bh_single_quote_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
 								"bh_regex",
 								"bh_regex_center",
 								"bh_regex_open",
@@ -662,22 +769,48 @@
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_unmatched",
 								"bh_unmatched_center",
 								"bh_unmatched_open",
 								"bh_unmatched_close",
-								"bh_unmatched_content"
+								"bh_unmatched_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
 							],
+							"open_with_edit": true,
 							"side_bar_folders_auto_load_folder": 1,
 							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
-						"translation.y": 355.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
@@ -719,7 +852,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 165.0
+		"height": 54.0
 	},
 	"output.find_results":
 	{
@@ -746,6 +879,10 @@
 		"last_filter": "",
 		"selected_items":
 		[
+			[
+				"",
+				"py/20170331-Day1.py"
+			]
 		],
 		"width": 0.0
 	},
@@ -757,7 +894,7 @@
 		[
 			[
 				"",
-				"~/Documents/Learning/py/PythonLearning.sublime-project"
+				"~/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project"
 			],
 			[
 				"who",
