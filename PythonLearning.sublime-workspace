@@ -4,12 +4,20 @@
 		"selected_items":
 		[
 			[
-				"temp",
-				"temperature_categorical"
+				"my",
+				"my_sum"
 			],
 			[
-				"my",
-				"my_2d_array"
+				"m",
+				"my_radius"
+			],
+			[
+				"cir",
+				"circle_circum"
+			],
+			[
+				"temp",
+				"temperature_categorical"
 			],
 			[
 				"as",
@@ -78,18 +86,6 @@
 				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
-		},
-		{
-			"contents": "",
-			"file": "20170407_Day6.py",
-			"file_size": 0,
-			"file_write_time": 131360043230000000,
-			"settings":
-			{
-				"buffer_size": 0,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
 		}
 	],
 	"build_system": "",
@@ -115,10 +111,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 292.0,
-		"last_filter": "python",
+		"height": 208.0,
+		"last_filter": "pytho",
 		"selected_items":
 		[
+			[
+				"pytho",
+				"Set Syntax: Python"
+			],
 			[
 				"python",
 				"Set Syntax: Python"
@@ -126,10 +126,6 @@
 			[
 				"markd",
 				"Set Syntax: Markdown"
-			],
-			[
-				"pytho",
-				"Set Syntax: Python"
 			],
 			[
 				"install",
@@ -284,7 +280,7 @@
 	},
 	"console":
 	{
-		"height": 335.0,
+		"height": 198.0,
 		"history":
 		[
 			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
@@ -311,6 +307,12 @@
 	],
 	"file_history":
 	[
+		"/Users/sheng/Documents/Learning/py/20170408_Day8.py",
+		"/Users/sheng/Documents/Learning/py/20170407_Day7.py",
+		"/Users/sheng/Documents/Learning/py/20170407_7Day.py",
+		"/Users/sheng/Documents/Learning/py/20170407_Day6.ipynb",
+		"/Users/sheng/Documents/Testing.ipynb",
+		"/Users/sheng/Desktop/untitled.py",
 		"/Users/sheng/Documents/Learning/py/20170404_Day5.py",
 		"/Users/sheng/Documents/Learning/py/20170404_Day4.py",
 		"/Users/sheng/Documents/Learning/py/README.md",
@@ -327,7 +329,6 @@
 		"/Users/sheng/Documents/Learning/py/2017040.py.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
 		"/Users/sheng/Documents/Learning/py/20170401_Day2",
-		"/Users/sheng/Desktop/untitled.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/anaconda.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/Anaconda/AnacondaKite.sublime-settings",
 		"/Users/sheng/Desktop/tmp.py",
@@ -433,12 +434,7 @@
 		"/Users/sheng/Desktop/test",
 		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道各年度常住人數_鄉鎮市區.Rmd",
 		"/Users/sheng/Documents/Paper_10401/script_sql/SQL匯出csv範例",
-		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
-		"/Users/sheng/Documents/Paper_10401/Data/20151117_上呼吸道_各年度常住人數_鄉鎮市區_最後就診時間版本",
-		"/Users/sheng/Documents/Paper_10401/script_sql/20151009_鄉鎮市區門診數",
-		"/Users/sheng/Documents/Paper_10401/Data/resident/20151020_2005鄉鎮常住人數_age&gender.csv",
-		"/Users/sheng/Documents/碩士論文/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R",
-		"/Users/sheng/Documents/碩士論文/碩士論文.sublime-project"
+		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R"
 	],
 	"find":
 	{
@@ -459,6 +455,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"my_radius",
 			"##",
 			"diction",
 			"#",
@@ -589,7 +586,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
@@ -612,7 +609,7 @@
 						{
 							"WordCount":
 							{
-								"changes": 34,
+								"changes": 1576,
 								"count": 0,
 								"modified": false,
 								"selection": false,
@@ -643,171 +640,59 @@
 								"bh_curly_open",
 								"bh_curly_close",
 								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
 								"bh_c_define",
 								"bh_c_define_center",
 								"bh_c_define_open",
 								"bh_c_define_close",
 								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
 								"bh_angle",
 								"bh_angle_center",
 								"bh_angle_open",
 								"bh_angle_close",
 								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
 								"bh_round",
 								"bh_round_center",
 								"bh_round_open",
 								"bh_round_close",
 								"bh_round_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
 								"bh_default",
 								"bh_default_center",
 								"bh_default_open",
 								"bh_default_close",
-								"bh_default_content"
+								"bh_default_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content"
 							],
 							"default_dir": "/Users/sheng/Documents/Learning/py",
 							"syntax": "Packages/Text/Plain text.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "20170407_Day6.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"WordCount":
-							{
-								"changes": -1,
-								"modified": true,
-								"selection": true,
-								"status": -1,
-								"syntax": "python"
-							},
-							"bracket_highlighter.busy": false,
-							"bracket_highlighter.locations":
-							{
-								"close":
-								{
-								},
-								"icon":
-								{
-								},
-								"open":
-								{
-								},
-								"unmatched":
-								{
-								}
-							},
-							"bracket_highlighter.regions":
-							[
-								"bh_curly",
-								"bh_curly_center",
-								"bh_curly_open",
-								"bh_curly_close",
-								"bh_curly_content",
-								"bh_single_quote",
-								"bh_single_quote_center",
-								"bh_single_quote_open",
-								"bh_single_quote_close",
-								"bh_single_quote_content",
-								"bh_regex",
-								"bh_regex_center",
-								"bh_regex_open",
-								"bh_regex_close",
-								"bh_regex_content",
-								"bh_c_define",
-								"bh_c_define_center",
-								"bh_c_define_open",
-								"bh_c_define_close",
-								"bh_c_define_content",
-								"bh_tag",
-								"bh_tag_center",
-								"bh_tag_open",
-								"bh_tag_close",
-								"bh_tag_content",
-								"bh_double_quote",
-								"bh_double_quote_center",
-								"bh_double_quote_open",
-								"bh_double_quote_close",
-								"bh_double_quote_content",
-								"bh_unmatched",
-								"bh_unmatched_center",
-								"bh_unmatched_open",
-								"bh_unmatched_close",
-								"bh_unmatched_content",
-								"bh_angle",
-								"bh_angle_center",
-								"bh_angle_open",
-								"bh_angle_close",
-								"bh_angle_content",
-								"bh_square",
-								"bh_square_center",
-								"bh_square_open",
-								"bh_square_close",
-								"bh_square_content",
-								"bh_round",
-								"bh_round_center",
-								"bh_round_open",
-								"bh_round_close",
-								"bh_round_content",
-								"bh_default",
-								"bh_default_center",
-								"bh_default_open",
-								"bh_default_close",
-								"bh_default_content"
-							],
-							"open_with_edit": true,
-							"side_bar_folders_auto_load_folder": 1,
-							"syntax": "Packages/Python/Python.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -852,7 +737,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 54.0
+		"height": 120.0
 	},
 	"output.find_results":
 	{
@@ -894,7 +779,7 @@
 		[
 			[
 				"",
-				"~/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project"
+				"~/Documents/Learning/front-end/boostrap.sublime-project"
 			],
 			[
 				"who",

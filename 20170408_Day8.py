@@ -10,7 +10,6 @@ print(my_square(3))
 
 # Nested functions
 
-
 def my_mean(input_list):
     'compute mean'
     def my_sum(input_list):
@@ -59,9 +58,11 @@ print("---")
 ironmen_list(51, 8, 18, 13, 6, 64)  # 含自我挑戰組
 
 # 不太懂用法
+
+
 def ironmen_list(**kwargs):
     '列出各組參賽鐵人數'
     for key in kwargs:
         print(key, "：", kwargs[key], "人")
 
-ironmen_list(a=51))
+ironmen_list(a=51)
