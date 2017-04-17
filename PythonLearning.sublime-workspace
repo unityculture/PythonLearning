@@ -5,7 +5,11 @@
 		[
 			[
 				"my",
-				"my_sum"
+				"my_1d_array"
+			],
+			[
+				"iro",
+				"ironmen_df"
 			],
 			[
 				"m",
@@ -80,10 +84,11 @@
 	"buffers":
 	[
 		{
-			"contents": "",
+			"file": "README.md",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 1617,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -111,10 +116,14 @@
 	"build_varint": "",
 	"command_palette":
 	{
-		"height": 208.0,
-		"last_filter": "pytho",
+		"height": 250.0,
+		"last_filter": "pytho\t",
 		"selected_items":
 		[
+			[
+				"pytho\t",
+				"Set Syntax: Python"
+			],
 			[
 				"pytho",
 				"Set Syntax: Python"
@@ -303,21 +312,28 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/sheng/Documents/Learning/py"
+		"/Users/sheng/Documents/Learning/py",
+		"/Users/sheng/Documents/Learning/py/ebook"
 	],
 	"file_history":
 	[
-		"/Users/sheng/Documents/Learning/py/20170408_Day8.py",
-		"/Users/sheng/Documents/Learning/py/20170407_Day7.py",
-		"/Users/sheng/Documents/Learning/py/20170407_7Day.py",
-		"/Users/sheng/Documents/Learning/py/20170407_Day6.ipynb",
-		"/Users/sheng/Documents/Testing.ipynb",
+		"/Users/sheng/Documents/Learning/py/20170417_Day10-2.py",
 		"/Users/sheng/Desktop/untitled.py",
+		"/Users/sheng/Documents/Learning/py/20170417_Day10.py",
+		"/Users/sheng/Documents/Learning/py/20170401_Day2.py",
+		"/Users/sheng/Documents/Learning/py/20170412_Day9.py",
+		"/Users/sheng/Documents/Learning/py/Python.pXㄎㄩㄛng",
+		"/Users/sheng/Documents/Learning/py/ebook/20170412_Da..",
 		"/Users/sheng/Documents/Learning/py/20170404_Day5.py",
 		"/Users/sheng/Documents/Learning/py/20170404_Day4.py",
+		"/Users/sheng/Documents/Learning/py/20170407_Day6.py",
+		"/Users/sheng/Documents/Learning/py/20170407_Day7.py",
+		"/Users/sheng/Documents/Learning/py/20170407_Day6.ipynb",
 		"/Users/sheng/Documents/Learning/py/README.md",
+		"/Users/sheng/Documents/Learning/py/20170408_Day8.py",
+		"/Users/sheng/Documents/Learning/py/20170407_7Day.py",
+		"/Users/sheng/Documents/Testing.ipynb",
 		"/Users/sheng/Documents/Learning/py/20170402_Day3.py",
-		"/Users/sheng/Documents/Learning/py/20170401_Day2.py",
 		"/Users/sheng/Documents/Learning/py/20170331-Day1.py",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/User/Python3.5.sublime-build",
 		"/Users/sheng/Library/Application Support/Sublime Text 3/Packages/AutoFileName/autofilename.sublime-settings",
@@ -428,23 +444,25 @@
 		"/Users/sheng/Documents/Paper_10401/script_sql/20151220_就醫人口在百萬抽樣黨所佔得比",
 		"/Users/sheng/Documents/Paper_10401/script_r & report/smallhorse/20150105_OD_四個縣市改鄉鎮區域",
 		"/Users/sheng/Documents/Learning/R/懶人包",
-		"/Users/sheng/Documents/Paper_10401/paper_10401.sublime-project",
-		"/Users/sheng/Documents/Paper_10401/script_r & report/20150921_2000and2010常住人口_鄉鎮.R",
-		"/Users/sheng/Documents/Paper_10401/script_r & report/20150926_2000and2010常住人口_縣市.R",
-		"/Users/sheng/Desktop/test",
-		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道各年度常住人數_鄉鎮市區.Rmd",
-		"/Users/sheng/Documents/Paper_10401/script_sql/SQL匯出csv範例",
-		"/Users/sheng/Documents/Paper_10401/script_r & report/20151020_上呼吸道_各年度常住人數_鄉鎮市區.R"
+		"/Users/sheng/Documents/Paper_10401/paper_10401.sublime-project"
 	],
 	"find":
 	{
-		"height": 33.0
+		"height": 72.0
 	},
 	"find_in_files":
 	{
-		"height": 93.0,
+		"height": 164.0,
 		"where_history":
 		[
+			"/Users/sheng/Documents/Learning/py",
+			"",
+			"2017^",
+			"^2017",
+			"^2.py",
+			"^2*.py",
+			"^2&*.py",
+			"*.py",
 			"",
 			"whoscall",
 			""
@@ -455,6 +473,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gene",
+			"generic",
+			"gene",
+			"  -",
+			" ",
+			"utf",
+			"env | utf",
+			"env",
 			"my_radius",
 			"##",
 			"diction",
@@ -591,43 +617,58 @@
 			[
 				{
 					"buffer": 0,
+					"file": "README.md",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 1617,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								153,
+								153
 							]
 						],
 						"settings":
 						{
 							"WordCount":
 							{
-								"changes": 1576,
-								"count": 0,
+								"changes": 593,
+								"count": 81,
 								"modified": false,
 								"selection": false,
 								"status": -1,
 								"syntax": "plain text"
 							},
-							"auto_name": "",
 							"bracket_highlighter.busy": false,
 							"bracket_highlighter.locations":
 							{
 								"close":
 								{
+									"1":
+									[
+										153,
+										154
+									]
 								},
 								"icon":
 								{
+									"1":
+									[
+										"Packages/BracketHighlighter/icons/double_quote.png",
+										"brackethighlighter.default"
+									]
 								},
 								"open":
 								{
+									"1":
+									[
+										148,
+										149
+									]
 								},
 								"unmatched":
 								{
@@ -691,8 +732,11 @@
 								"bh_tag_close",
 								"bh_tag_content"
 							],
-							"default_dir": "/Users/sheng/Documents/Learning/py",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"color_scheme": "Packages/User/Color Highlighter/themes/MarkdownEditor.tmTheme",
+							"parser": "markdown",
+							"side_bar_folders_auto_load_folder": 1,
+							"syntax": "Packages/MarkdownEditing/Markdown.tmLanguage",
+							"target": "disk"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -737,7 +781,7 @@
 	"menu_visible": true,
 	"output.exec":
 	{
-		"height": 120.0
+		"height": 191.0
 	},
 	"output.find_results":
 	{
@@ -765,6 +809,10 @@
 		"selected_items":
 		[
 			[
+				"python.p",
+				"py/Python.pXㄎㄩㄛng"
+			],
+			[
 				"",
 				"py/20170331-Day1.py"
 			]
@@ -779,7 +827,7 @@
 		[
 			[
 				"",
-				"~/Documents/Learning/front-end/boostrap.sublime-project"
+				"~/Documents/NCCU/ML/NCCU_ML_Note/nccu_ml.sublime-project"
 			],
 			[
 				"who",
@@ -809,7 +857,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 172.0,
+	"side_bar_width": 217.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{

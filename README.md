@@ -1,7 +1,15 @@
 # Note 
 
-## 4/12
+## 4/17
 
+- 練習Python 物件導向：屬性、方法、繼承、改寫的方法
+- 物件的建立：定義類別、根據類別建立物件、使用物件的屬性、定義方法
+- 變數的基本類型：數字文字、資料結構、ndarray
+
+<img src = "PythonXmind.png" style="width: 80%; height: 50%">
+
+## 4/12
+ 
 - 新增Xmind圖片在此md中，隨時更新。紀錄核心觀念
 - 手動安裝Anaconda包，將Python path指過去。
 - R: S3, S4, RC class http://ithelp.ithome.com.tw/articles/10185564

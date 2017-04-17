@@ -9,6 +9,7 @@ ironmen_dict = {"groups": groups,
 
 # 跟 R 語言程式比較這兩行
 ironmen_df = pd.DataFrame(ironmen_dict)
+print(ironmen_df.dtypes)
 print(ironmen_df.head(n=3))
 
 # 一定要看R的物件導向概念：http://ithelp.ithome.com.tw/articles/10185564
